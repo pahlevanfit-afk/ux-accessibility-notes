@@ -43,3 +43,16 @@ and compliance-aware product design.
 Maintained by: **Arvin (Fit by Arvin)**  
 Personal Trainer · Evidence-based practice · Hamburg  
 Instagram: https://www.instagram.com/arvinn.de
+## How to Participate
+
+This repository documents real-world accessibility and UX issues.
+Contributions are welcome in the following forms:
+
+- Opening new Issues for documented problems
+- Adding technical observations or reproducible cases
+- Proposing neutral, compliance-aware UX improvements
+
+### Active Issues
+See the Issues tab for tracked problems:
+- P1 – Iran: Silent Geo-Blocking Causes Security & UX Risks
+- P1 – Persian (Farsi): Language, RTL, and Document Output Quality Gaps
