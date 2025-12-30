@@ -53,6 +53,13 @@ Contributions are welcome in the following forms:
 - Proposing neutral, compliance-aware UX improvements
 
 ### Active Issues
-See the Issues tab for tracked problems:
-- P1 – Iran: Silent Geo-Blocking Causes Security & UX Risks
-- P1 – Persian (Farsi): Language, RTL, and Document Output Quality Gaps
+
+The following high-priority issues are currently tracked and open:
+
+- **P1 – Iran: Silent Geo-Blocking Causes Security & UX Risks**  
+  Status: Open  
+  Focus: Transparency, user safety, and compliance-aware error handling
+
+- **P1 – Persian (Farsi): Language, RTL, and Document Output Quality Gaps**  
+  Status: Open  
+  Focus: Language quality, RTL rendering, and accessibility parity
